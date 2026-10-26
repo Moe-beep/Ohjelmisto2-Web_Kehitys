@@ -1,0 +1,24 @@
+h1{
+    color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: peachpuff;
+}
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:cadetblue;
+    font-size: 40px;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+.for-image{
+    border-radius: 20%;
+    border-color: black;
+    padding: 20px;
+}
