@@ -1,5 +1,4 @@
 h1{
-    text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 p{
@@ -7,7 +6,116 @@ p{
 }
 body{
     background-color: burlywood;
+    margin: 0;
 }
 a{
     text-decoration: none;
+}
+
+/*For the Navigation bar*/
+.Navigation{
+    display: flex;
+    justify-content: right;
+    text-align: center;
+    gap: 15%;
+    background-color: #111111;
+}
+.Navigation a{
+    color: aliceblue;
+    padding: 20px;
+    font-size: 20px;
+}
+/*logo*/
+.Navigation a#logo{
+    /*make the logo to go to the far right corner*/
+    margin-right: auto;
+}
+
+.Navigation a:hover {
+  background-color: rgba(160, 154, 154, 0.288);
+}
+
+/*For picture*/
+img#home{
+    border-radius: 8px;
+    padding: 20px;
+    padding-top: 0;
+    display: block;
+    margin: auto;
+    width: 90%;
+    height: auto;
+}
+/*MAIN*/
+.Home p{
+    text-align: center;
+    font-size: 15px;
+}
+.Home h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 100px;
+}
+
+/*PRODUCT*/
+
+.first-part-product p{
+    text-align: center;
+}
+/* Container for all products */
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 20px;
+    padding: 20px;
+    background-color:none;
+}
+
+/* Individual products */
+.product {
+    flex: 1 1 250px;/*Make the box grow according to space*/
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    min-height: 800px;
+    text-align: left;
+}
+.product #intro{
+    font-style: italic;
+}
+
+/* Product images */
+.product img {
+    width: 400px;
+    height: 600px;
+}
+
+
+
+/*CONTACT*/
+.separate{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.separate #left{
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-bottom: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.separate #right{
+    margin: 10px;
+    margin-top: 50px;
+    margin-left: auto;
+}
+.separate #right img {
+    width: 100%;
+    height: auto;
 }
