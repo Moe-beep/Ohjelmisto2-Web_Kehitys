@@ -1,12 +1,25 @@
+@font-face {
+    font-family: Audit;
+    src: url(Autour_One/AutourOne-Regular.ttf) format(truetype);
+}
 h1{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Audit', sans-serif;
+    color: white;
+    padding: 1%;
 }
 p{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Audit', sans-serif;
+    color: white;
+    padding: 3%;
+    font-size: 80%;
 }
 body{
-    background-color: burlywood;
-    margin: 0;
+    background-color: #a59075;
+    margin: 20%;
+    margin-top: 0;
+}
+section{
+    background-color: #5f3426;
 }
 a{
     text-decoration: none;
@@ -16,46 +29,47 @@ a{
 .Navigation{
     display: flex;
     justify-content: right;
+    justify-content: space-around;
     text-align: center;
-    gap: 15%;
-    background-color: #111111;
+    background-color: #889c9b;
 }
 .Navigation a{
+    font-family: "Audit", sans-serif;
     color: aliceblue;
-    padding: 20px;
-    font-size: 20px;
+    padding: 2% 4%;
+    font-size: 150%;
 }
 /*logo*/
 .Navigation a#logo{
     /*make the logo to go to the far right corner*/
     margin-right: auto;
+    background-color: #938f71;
 }
 
 .Navigation a:hover {
-  background-color: rgba(160, 154, 154, 0.288);
+  background-color: #937460;
 }
 
 /*For picture*/
 img#home{
-    border-radius: 8px;
-    padding: 20px;
     padding-top: 0;
     display: block;
     margin: auto;
     width: 90%;
     height: auto;
+    border-radius: 8px;
 }
 /*MAIN*/
 .Home p{
     text-align: center;
-    font-size: 15px;
 }
 .Home h1{
     text-align: center;
-    padding-top: 100px;
+    padding-top: 10%;
     padding-bottom: 0;
     margin-bottom: 0;
-    font-size: 100px;
+    margin-top: 0;
+    font-size: 600%;
 }
 
 /*PRODUCT*/
@@ -68,28 +82,29 @@ img#home{
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
-    gap: 20px;
-    padding: 20px;
+    padding: 1%;
     background-color:none;
 }
 
 /* Individual products */
 .product {
-    flex: 1 1 250px;/*Make the box grow according to space*/
-    background-color: white;
-    padding: 20px;
+    flex: 1 1 200px;/*Make the box grow according to space*/
+    background-color:	#889c9b;
+    color: white;
+    padding: 2%;
+    margin: 1%;
     border-radius: 8px;
-    min-height: 800px;
     text-align: left;
 }
+
 .product #intro{
     font-style: italic;
 }
 
 /* Product images */
 .product img {
-    width: 400px;
-    height: 600px;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -103,17 +118,14 @@ img#home{
 }
 
 .separate #left{
-    margin-left: 40px;
-    margin-right: 10px;
+    margin-left: 10%;
+    margin-right:3%;
     margin-bottom: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
 }
 .separate #right{
-    margin: 10px;
-    margin-top: 50px;
-    margin-left: auto;
+    margin: 3%;
+    margin-top: 5%;
+    margin-bottom: 30%;
 }
 .separate #right img {
     width: 100%;
