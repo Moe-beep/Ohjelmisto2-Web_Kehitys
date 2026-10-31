@@ -6,16 +6,17 @@ h1{
     font-family: 'Audit', sans-serif;
     color: white;
     padding: 1%;
+    font-size: 7vw;
 }
 p{
     font-family: 'Audit', sans-serif;
     color: white;
     padding: 3%;
-    font-size: 80%;
+    font-size: 2vw;
 }
 body{
     background-color: #a59075;
-    margin: 20%;
+    margin: 10%;
     margin-top: 0;
 }
 section{
@@ -37,7 +38,7 @@ a{
     font-family: "Audit", sans-serif;
     color: aliceblue;
     padding: 2% 4%;
-    font-size: 150%;
+    font-size: 3vw;
 }
 /*logo*/
 .Navigation a#logo{
@@ -69,7 +70,7 @@ img#home{
     padding-bottom: 0;
     margin-bottom: 0;
     margin-top: 0;
-    font-size: 600%;
+    font-size: 10vw;
 }
 
 /*PRODUCT*/
@@ -88,7 +89,8 @@ img#home{
 
 /* Individual products */
 .product {
-    flex: 1 1 200px;/*Make the box grow according to space*/
+    flex: 2 1 30%;/*Make the box grow according to space*/
+    box-sizing: border-box;
     background-color:	#889c9b;
     color: white;
     padding: 2%;
@@ -96,14 +98,19 @@ img#home{
     border-radius: 8px;
     text-align: left;
 }
-
+.product h1{
+    font-size: 300%;
+}
+.product p{
+    font-size: 100%;
+}
 .product #intro{
     font-style: italic;
 }
 
 /* Product images */
 .product img {
-    width: 100%;
+    width: 90%;
     height: auto;
 }
 
@@ -118,14 +125,22 @@ img#home{
 }
 
 .separate #left{
-    margin-left: 10%;
+    margin-left: 5%;
     margin-right:3%;
     margin-bottom: auto;
+    width: 30%;
+    box-sizing: border-box;
+}
+.separate #left{
+    font-size: 100%;
 }
 .separate #right{
     margin: 3%;
     margin-top: 5%;
     margin-bottom: 30%;
+    margin-left: 10%;
+    width: 70%;
+    box-sizing: border-box;
 }
 .separate #right img {
     width: 100%;
