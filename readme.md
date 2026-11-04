@@ -4,4 +4,7 @@
 
 ## Assignment 1
 ### HTML/CSS-itseopiskelu + tehtävä
-Verkkosivuston taitto on valmis, mutta fontit ja väripaletit ovat vielä työn alla.
+Verkkosivusto on valmis!!
+
+## JavaScrit 1 and 2
+Tehtin noin 11p.
