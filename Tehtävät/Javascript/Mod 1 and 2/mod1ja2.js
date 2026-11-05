@@ -1,14 +1,16 @@
 "use strict"
+//Tehtävä 1
 console.log("I'm printing to concole!");
 
+//Tehtävä 2
 const name = prompt("Howdy!!What's your name?");
 document.querySelector("#greet").innerHTML = "Hello, " + name + ".";
 
+// 3 Numbers
 const first = parseInt(prompt("Give me first integer!"));
 const second = parseInt(prompt("Give me second integer!"));
 const third = parseInt(prompt("Give me third integer!"));
 
-//numbers
 const sum = first + second + third;
 const average = sum / 3;
 const sumStr = sum.toString();
@@ -16,7 +18,7 @@ const averageStr = average.toString();
 
 document.querySelector("#number").innerHTML = "Sum = "+sumStr+", Average= "+ averageStr;
 
-//Harry potter
+// 4 Harry potter
 const sortname = prompt("Tell me your name child!");
 const house = Math.floor(Math.random() * 5) + 1;
 let line;
@@ -39,6 +41,8 @@ switch(house){
 
 document.querySelector("#hogward").innerHTML = line;
 
+
+//Tehtävä 5 Leap year
 const year = parseInt(prompt("Give me a year.."));
 let leap;
 if(year % 4 === 0 && year % 100 != 0|| (year % 100 === 0 && year % 400 === 0) ){
