@@ -5,7 +5,7 @@
 ## Assignment 1
 ### HTML/CSS-itseopiskelu + tehtävä
 Verkkosivusto on valmis!!
-- [Sen suvsto on tällä](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/tree/main/Tehtävät/Javascript/mod1/myintm.html)
+- [Sen suvsto on tällä](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/tree/main/Tehtävät/Javascript/mod1/myintm.html)
 
 ## JavaScrit Module 1 and 2
 
