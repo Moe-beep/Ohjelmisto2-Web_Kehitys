@@ -20,19 +20,20 @@ document.querySelector("#number").innerHTML = "Sum = "+sumStr+", Average= "+ ave
 
 // 4 Harry potter
 const sortname = prompt("Tell me your name child!");
-const house = Math.floor(Math.random() * 5) + 1;
+const house = Math.floor(Math.random() * 5);
+const houseStr = house.toString();
 let line;
-switch(house){
-    case 1:
+switch(houseStr){
+    case "1":
         line = `${sortname}, you are Gryffindor`
         break
-    case 2:
+    case "2":
         line = `${sortname}, you are Ravenclaw`
         break
-    case 3:
+    case "3":
         line = `${sortname}, you are Slytherin`
         break
-    case 4:
+    case "4":
         line = `${sortname}, you are Hufflepuff`
         break
     default:
