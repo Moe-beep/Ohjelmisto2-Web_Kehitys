@@ -1,0 +1,21 @@
+h1{
+    font-size: 26px;
+    text-align: center;
+}
+h2{
+    font-size: 18px;
+    color: blue;
+}
+#mainheading{
+    font-size: 20px;
+    color: red;
+}
+.secondheading{
+    font-size: 16px;
+    color: green;
+}
+ul{
+    border: 1px solid black;
+    padding: 10px;
+    list-style-type: none;
+}
