@@ -8,7 +8,7 @@ Verkkosivusto on valmis!!
 
 ## JavaScrit Module 1 and 2
 
-[Tehtävät 1-4 ovat tällä!](/Tehtävät/Javascript/Mod%201%20and%202/mod1ja2.html)
+[Tehtävät 1-4 ovat tällä!](/Tehtävät/Javascript/Mod1and2/mod1ja2.html)
 Tehtävä 1 = 1p
 Tehtävä 2 = 2p
 Tehtävä 3 = 3p
