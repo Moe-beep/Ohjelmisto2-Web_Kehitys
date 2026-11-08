@@ -22,10 +22,10 @@ yhteensä = **12p**
 
 ## JavaScript Module 3
 
-- Tehtävä 1 = 2p
-- Tehtävä 2 = 2p,
-- Tehtävä 3 = 2p,
-- Tehtävä 4 = 2p,
-- Tehtävä 5 = 2p.
+- [Tehtävä 1](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/Javascript/Mod3/teh1/teh1.html) = 2p
+- [Tehtävä 2](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/Javascript/Mod3/teh2/teh2.html) = 2p,
+- [Tehtävä 3](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/Javascript/Mod3/teh3/teh3.html) = 2p,
+- [Tehtävä 4](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/Javascript/Mod3/teh4/teh4.html) = 2p,
+- [Tehtävä 5](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/Javascript/Mod3/teh5/teh5.html) = 2p.
 
 yhteensä = **10p**
