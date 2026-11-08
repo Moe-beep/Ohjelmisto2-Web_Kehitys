@@ -21,3 +21,11 @@ Verkkosivusto on valmis!!
 yhteensä = **12p**
 
 ## JavaScript Module 3
+
+- Tehtävä 1 = 2p
+- Tehtävä 2 = 2p,
+- Tehtävä 3 = 2p,
+- Tehtävä 4 = 2p,
+- Tehtävä 5 = 2p.
+
+yhteensä = **10p**
