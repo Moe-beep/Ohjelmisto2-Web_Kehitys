@@ -28,4 +28,5 @@ yhteensä = **12p**
 - [Tehtävä 4](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/Javascript/Mod3/teh4/teh4.html) = 2p,
 - [Tehtävä 5](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/Javascript/Mod3/teh5/teh5.html) = 2p.
 
+-[Koodit](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/tree/main/Tehtävät/Javascript/Mod3)
 yhteensä = **10p**
