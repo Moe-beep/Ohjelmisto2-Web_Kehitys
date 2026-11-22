@@ -44,6 +44,6 @@ yhteensä = **10p**
 
 ## Javascript Python Flask
 
-- [Tehtävä 2](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/Tehtävät/Python/PythonFlask)
+- [Tehtävä 2](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/tree/main/Tehtävät/Python/PythonFlask) = 10p
 
 yhteensä = **10p**
