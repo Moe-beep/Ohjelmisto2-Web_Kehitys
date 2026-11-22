@@ -41,3 +41,9 @@ yhteensä = **10p**
 
 - [Koodit](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/tree/main/Tehtävät/Javascript/Mod4)
 yhteensä = **10p**
+
+## Javascript Python Flask
+
+- [Tehtävä 2](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/Tehtävät/Python/PythonFlask)
+
+yhteensä = **10p**
