@@ -47,3 +47,12 @@ yhteensä = **10p**
 - [Tehtävä 2](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/tree/main/Tehtävät/Python/PythonFlask) = 10p
 
 yhteensä = **10p**
+
+## Javascript Module 5
+
+- [Tehtävä 1](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/AJAX/t1/t1.html) = 2p
+- [Tehtävä 2](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/AJAX/t2/t2.html) = 3p,
+- [Tehtävä 3](https://moe-beep.github.io/Ohjelmisto2-Web_Kehitys/Tehtävät/AJAX/t3/t3.html) = 7p.
+
+- [Koodit](https://github.com/Moe-beep/Ohjelmisto2-Web_Kehitys/tree/main/Tehtävät/AJAX)
+yhteensä = **12p**
